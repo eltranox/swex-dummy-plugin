@@ -1,6 +1,6 @@
 {
   "name": "swex-dummy-plugin",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Dummy SWEX plugin to test the plugin auto update",
   "main": "index.js",
   "private": true,
